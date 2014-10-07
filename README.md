@@ -1,6 +1,6 @@
-ico
+ics
 ===
 
-codes about icolabs
+codes about icslabs
 
 created by a student from NUJ
