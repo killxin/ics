@@ -3,4 +3,4 @@ ics
 
 codes about icslabs
 
-created by a student from NUJ
+created by a student from NJU
